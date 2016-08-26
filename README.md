@@ -5,4 +5,4 @@ Known fractals such as Koch- and Sierpinski fractals are predefined and can be m
 
 
 
-Requires Python 2.7 compilation
+Requires Python 2.7
